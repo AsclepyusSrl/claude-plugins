@@ -8,8 +8,8 @@
     {
       "name": "repository-foundation",
       "source": {
-        "source": "github",
-        "repo": "AsclepyusSrl/repository-foundation-skill"
+        "source": "url",
+        "url": "https://github.com/AsclepyusSrl/repository-foundation-skill.git"
       },
       "description": "Audit and setup Python repository DevOps foundations — linting, type checking, testing, conventional commits, semantic versioning, CI/CD, and Pulumi IaC.",
       "version": "2.0.0",
